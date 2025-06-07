@@ -334,7 +334,7 @@ I'm finishing Sprint 1 of building "Team Trivia Showdown" in Replit. I want to m
 
 Provide practical tips for debugging or testing on Replit with limited tooling.
 ```
-
+<!--
 ---
 ### Risks and Assumptions
 > Think About Mobile/Accessibility
@@ -347,4 +347,4 @@ Provide practical tips for debugging or testing on Replit with limited tooling.
 > While the current focus is on team bonding, consider mentioning that the platform could be adapted for training, onboarding, or corporate knowledge sharing, which could expand the tool’s utility and relevance to more departments (L&D, internal communications, etc.)
 
 ### Future Development (Pipeline)
-
+-->
